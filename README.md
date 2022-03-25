@@ -168,6 +168,8 @@ System 4:
  S1 4DP\
  United Kingdom
  
+ #### Consent
+ We consent with the system outputs being released under an MIT license.
  
  #### Contact Person:
  Sebastian Vincent\
